@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import Bg from './components/Bg';
 import { flightOffers, images } from './data';
 
